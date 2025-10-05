@@ -1,4 +1,17 @@
+# Install with: pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu121
 pandas
 scikit-learn
 ipykernel
 matplotlib
+torch
+torchvision
+torchaudio
+ipykernel
+tqdm
+langchain
+langchain_community
+langchain_google_genai
+beautifulsoup4
+faiss-cpu
+datasets
+kagglehub
