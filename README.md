@@ -1,6 +1,6 @@
 # AI & Machine Learning Implementations
 
-Model implementation and experimentation of various Artificial Intelligence and Machine Learning algorithms and techniques I learn!
+A comprehensive repository documenting my hands-on implementation and experimentation with AI/ML algorithms!
 
 ## 📂 Repository Structure
 
