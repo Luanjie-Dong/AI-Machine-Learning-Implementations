@@ -1,5 +1,5 @@
 # AI & Machine Learning Implementations
-![Logo](image)
+
 
 ## Overview
 A comprehensive repository documenting my hands-on implementation and experimentation with AI/ML algorithms!
