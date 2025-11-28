@@ -19,3 +19,4 @@ google-genai
 openai
 tiktoken
 optuna
+tensorflow
