@@ -20,3 +20,4 @@ openai
 tiktoken
 optuna
 tensorflow
+torchtext

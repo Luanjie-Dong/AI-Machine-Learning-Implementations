@@ -1,0 +1,2 @@
+## Reading resources
+- How to generate text: using different decoding methods for language generation with Transformers - https://github.com/huggingface/blog/blob/main/notebooks/02_how_to_generate.ipynb
